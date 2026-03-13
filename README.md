@@ -1,4 +1,4 @@
-# AAU-Programming-Homework
+# Day 1: AAU-Programming-Homework
 Solutions for logic, flowcharts, and C++ algorithms.
 
 Logic and Algorithms - Year 1
